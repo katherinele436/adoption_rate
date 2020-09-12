@@ -1,6 +1,8 @@
 # adoption_rate
 Using RNN and CNN model to predict adoption rate of pets
+
 Title: Use of Neural Networks in Pet Adoption
+
 Problem to address/ motivation:
 
 ●	Problem to solve: Determining the likelihood that an animal at a shelter will get adopted.
