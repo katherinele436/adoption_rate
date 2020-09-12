@@ -4,12 +4,19 @@ Using RNN and CNN model to predict adoption rate of pets
 Run python 2.7 on MacOs Mojave
 
 Required
+
 Sklearn 0.0
+
 Tensorflow
+
 Pandas 0.24.2
+
 Json (built in library)
+
 Keras 2.2.4
+
 Tidyverse
+
 dplyr 
 
 Required data
