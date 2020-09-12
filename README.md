@@ -4,7 +4,9 @@ Title: Use of Neural Networks in Pet Adoption
 Problem to address/ motivation:
 
 ●	Problem to solve: Determining the likelihood that an animal at a shelter will get adopted.
+
 ●	By being able to predict the likelihood of an animal getting adopted, the shelter can put more energy & resources into the animals with low probability of adoption.
+
 ●	This has the ability to increase adoption rates & decrease animal misery. It can also help the shelter lower the adoption fee of such animals.
 
 
